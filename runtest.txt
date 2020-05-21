@@ -1,0 +1,36 @@
+hoose Menu: 0.load user datas 1.create user 2. read user 3. delete user 4. update user 5. rank user 6.ranking
+7. make group 8. join group 9. save group score 10. show all users 11.save all users 12.Quit >> 0
+
+Choose Menu: 0.load user datas 1.create user 2. read user 3. delete user 4. update user 5. rank user 6.ranking
+7. make group 8. join group 9. save group score 10. show all users 11.save all users 12.Quit >> 1
+Enter a new member's info.
+name > Le
+gender >M
+job > doctor
+score > 80
+6. '[Le]''s data generated!
+
+Choose Menu: 0.load user datas 1.create user 2. read user 3. delete user 4. update user 5. rank user 6.ranking
+7. make group 8. join group 9. save group score 10. show all users 11.save all users 12.Quit >> 4
+Enter a name > Le
+Enter a updated info
+gender > M
+job > doctor
+score > 50
+run function 'rank_user' to update your grade!
+6.Le's data updated!
+
+Choose Menu: 0.load user datas 1.create user 2. read user 3. delete user 4. update user 5. rank user 6.ranking
+7. make group 8. join group 9. save group score 10. show all users 11.save all users 12.Quit >> 2
+Enter a name > Le
+[user info]
+Name: Le
+gender: M
+job: doctor
+score: 50
+rank:
+group:
+
+Choose Menu: 0.load user datas 1.create user 2. read user 3. delete user 4. update user 5. rank user 6.ranking
+7. make group 8. join group 9. save group score 10. show all users 11.save all users 12.Quit >> 12
+
